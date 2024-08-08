@@ -1,0 +1,19 @@
+.bg-img {
+    background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+    height: 640px;
+    background-repeat: no-repeat;
+    display: block;
+    float: none;
+    line-height: normal;
+    position: absolute;
+    z-index: auto;
+    width: 360px;
+}
+.bt {
+    background-color: orange;
+    outline-style: groove;
+}
+
+.jd {
+    text-decoration: underline;
+}
